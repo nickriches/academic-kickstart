@@ -35,6 +35,8 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nick Riches is a Senior Lecturer in Speech and Language Pathology at the University of Newcastle. He joined the Department of Speech and Language Sciences in 2010.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He first became interested in linguistics while teaching English as a Foreign Language in Spain. This spurred him on to a Masters in Linguistics (UCL), and PhD investigating language learning in children with language difficulties (Manchester, with Gina Conti-Ramsden). He then undertook two postdoctoral research positions, one at Guy's Hospital investigating language in autism (with Tom Loucas, Gillian Baird, Tony Charman and Emily Simonoff), followed by a British Academy Research Fellowship investigating Sentence Repetition in language-impaired children (2010).
+
+Since joining the department he has conducted research in a wide variety of linguistic phenomena including language intervention for the passive construction, the processing of question forms and collocational knowledge in children.
